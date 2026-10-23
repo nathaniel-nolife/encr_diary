@@ -5,7 +5,7 @@
 $ cargo run <COMMAND>
 ```
 Commands:
-```bash
+```
   add :only for this if you wish to mention title use -t or --title flag | add an entry    
   list | list the titles and ids
   view <id> | view the entry
